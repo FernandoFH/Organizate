@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Organizate",
+    "version": "1.0",
+    "description": "Best Extencion to Organizate in Internet stuff",
+    "icons": {
+        "128":"./icons/Organizate.png"
+    }, 
+    "action":{
+        "default_popup": "popup.html"
+    }
+}
